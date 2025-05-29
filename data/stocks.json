@@ -3,17 +3,17 @@
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": 99.07086546979697
+      "price": 71.0864037114312
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc.",
-      "price": 88.82790317992354
+      "price": 11.041698194657545
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": 85.78171586552415
+      "price": 259.8871559665217
     }
   ]
 }
